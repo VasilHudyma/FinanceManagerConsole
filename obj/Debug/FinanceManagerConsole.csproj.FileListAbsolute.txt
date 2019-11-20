@@ -1,0 +1,9 @@
+C:\Users\vasia\source\repos\FinanceManagerConsole\bin\Debug\FinanceManagerConsole.exe.config
+C:\Users\vasia\source\repos\FinanceManagerConsole\bin\Debug\FinanceManagerConsole.exe
+C:\Users\vasia\source\repos\FinanceManagerConsole\bin\Debug\FinanceManagerConsole.pdb
+C:\Users\vasia\source\repos\FinanceManagerConsole\bin\Debug\Dapper.dll
+C:\Users\vasia\source\repos\FinanceManagerConsole\bin\Debug\Dapper.xml
+C:\Users\vasia\source\repos\FinanceManagerConsole\obj\Debug\FinanceManagerConsole.csprojAssemblyReference.cache
+C:\Users\vasia\source\repos\FinanceManagerConsole\obj\Debug\FinanceManagerConsole.csproj.CopyComplete
+C:\Users\vasia\source\repos\FinanceManagerConsole\obj\Debug\FinanceManagerConsole.exe
+C:\Users\vasia\source\repos\FinanceManagerConsole\obj\Debug\FinanceManagerConsole.pdb
